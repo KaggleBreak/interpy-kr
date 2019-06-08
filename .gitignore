@@ -16,3 +16,4 @@ _book
 *.pdf
 
 .ipynb_checkpoints
+.idea
