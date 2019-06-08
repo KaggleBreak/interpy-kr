@@ -20,7 +20,7 @@ def multi_process(lists):
     cnt = 0
     pool = multiprocessing.Pool(processes=4)
     func = partial(singleCount, cnt)
-    pool.apply_async(func, lists)
+    pool.map_async(func, lists)
     pool.close()
     pool.join()
 
