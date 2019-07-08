@@ -42,7 +42,7 @@
 ||multiprocessing|홍수린|[발표자료](https://github.com/KaggleBreak/interpy-kr/blob/master/day5/multiprocessing.ipynb)|
 |2019.06.22(토)|numpy 심화|김지미|[발표자료](https://github.com/KaggleBreak/interpy-kr/blob/master/day6/numpy_%E1%84%89%E1%85%B5%E1%86%B7%E1%84%92%E1%85%AA.ipynb)||
 ||python C 확장|홍수린|[발표자료](https://github.com/KaggleBreak/interpy-kr/blob/master/day6/python_c_extension.ipynb)|
-||코루틴(yield)|정한웅|[발표자료](https://github.com/KaggleBreak/interpy-kr/blob/master/day6/coroutine.ipynb)|비동기처리(asyncio)
+||코루틴(yield)|정한웅|[발표자료](https://github.com/KaggleBreak/interpy-kr/blob/master/day6/coroutine.ipynb)|
 ||함수 캐싱|유홍렬|[발표자료](https://github.com/KaggleBreak/interpy-kr/blob/master/day6/function%20caching.ipynb)|
 |2019.07.06(토)|컨텍스트 매니저(context manager)|이상열|[발표자료](https://github.com/KaggleBreak/interpy-kr/blob/master/day7/context_manager.ipynb)||
 ||class 심화|유홍렬|[발표자료](https://github.com/KaggleBreak/interpy-kr/blob/master/day7/class.ipynb)|
