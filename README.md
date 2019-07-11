@@ -38,6 +38,7 @@
 ||python C 확장|홍수린|[발표자료](https://github.com/KaggleBreak/interpy-kr/blob/master/day6/python_c_extension.ipynb)|
 ||코루틴(yield)|정한웅|[발표자료](https://github.com/KaggleBreak/interpy-kr/blob/master/day6/coroutine.ipynb)|
 ||함수 캐싱|유홍렬|[발표자료](https://github.com/KaggleBreak/interpy-kr/blob/master/day6/function%20caching.ipynb)|
+||itertools|황원택|[발표자료](https://github.com/KaggleBreak/interpy-kr/blob/master/day6/25_python_itertools.ipynb)|
 |2019.07.06(토)|컨텍스트 매니저(context manager)|이상열|[발표자료](https://github.com/KaggleBreak/interpy-kr/blob/master/day7/context_manager.ipynb)||
 ||class 심화|유홍렬|[발표자료](https://github.com/KaggleBreak/interpy-kr/blob/master/day7/class.ipynb)|
 ||한줄 명령어(oneLiners)|황원택|[발표자료](https://github.com/KaggleBreak/interpy-kr/blob/master/day7/One_liners_and_underscores.ipynb)|
