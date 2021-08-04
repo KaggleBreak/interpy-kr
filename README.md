@@ -24,9 +24,9 @@
 ||콜렉션(collections)|정한웅|[발표자료](https://github.com/KaggleBreak/interpy-kr/blob/master/day3/13_collections.ipynb)|
 ||__slots__ 마법|유동건|[발표자료](https://github.com/KaggleBreak/interpy-kr/blob/master/day3/14___slots__.ipynb)|
 |2019.05.25(토)|파이썬에서의 garbage collection(gc)|유동건|[발표자료](https://github.com/KaggleBreak/interpy-kr/blob/master/day4/garbage%20collection.ipynb)||
-||디버깅|유홍렬|[발표자료](https://github.com/KaggleBreak/interpy-kr/blob/master/day4/15_debugging.ipynb)|
-||unittest|유홍렬|[발표자료](https://github.com/KaggleBreak/interpy-kr/blob/master/day4/15_unittest.ipynb)|
-||가상환경|유홍렬|[발표자료](https://github.com/KaggleBreak/interpy-kr/blob/master/day4/16_virtualenv.ipynb)|
+||디버깅|김민혁|[발표자료](https://github.com/KaggleBreak/interpy-kr/blob/master/day4/15_debugging.ipynb)|
+||unittest|김민혁|[발표자료](https://github.com/KaggleBreak/interpy-kr/blob/master/day4/15_unittest.ipynb)|
+||가상환경|김민혁|[발표자료](https://github.com/KaggleBreak/interpy-kr/blob/master/day4/16_virtualenv.ipynb)|
 ||열거(enumerate)|정한웅|[발표자료](https://github.com/KaggleBreak/interpy-kr/blob/master/day3/13_enumerate.ipynb)|
 ||logging|황원택|[발표자료](https://github.com/KaggleBreak/interpy-kr/blob/master/day4/17_logging.ipynb)|
 ||profiling|홍수린|[발표자료](https://github.com/KaggleBreak/interpy-kr/blob/master/day4/Profiling.ipynb)|
@@ -37,10 +37,10 @@
 |2019.06.22(토)|numpy 심화|김지미|[발표자료](https://github.com/KaggleBreak/interpy-kr/blob/master/day6/numpy_%E1%84%89%E1%85%B5%E1%86%B7%E1%84%92%E1%85%AA.ipynb)||
 ||python C 확장|홍수린|[발표자료](https://github.com/KaggleBreak/interpy-kr/blob/master/day6/python_c_extension.ipynb)|
 ||코루틴(yield)|정한웅|[발표자료](https://github.com/KaggleBreak/interpy-kr/blob/master/day6/coroutine.ipynb)|
-||함수 캐싱|유홍렬|[발표자료](https://github.com/KaggleBreak/interpy-kr/blob/master/day6/function%20caching.ipynb)|
+||함수 캐싱|김민혁|[발표자료](https://github.com/KaggleBreak/interpy-kr/blob/master/day6/function%20caching.ipynb)|
 ||itertools|황원택|[발표자료](https://github.com/KaggleBreak/interpy-kr/blob/master/day6/25_python_itertools.ipynb)|
 |2019.07.06(토)|컨텍스트 매니저(context manager)|이상열|[발표자료](https://github.com/KaggleBreak/interpy-kr/blob/master/day7/context_manager.ipynb)||
-||class 심화|유홍렬|[발표자료](https://github.com/KaggleBreak/interpy-kr/blob/master/day7/class.ipynb)|
+||class 심화|김민혁|[발표자료](https://github.com/KaggleBreak/interpy-kr/blob/master/day7/class.ipynb)|
 ||한줄 명령어(oneLiners)|황원택|[발표자료](https://github.com/KaggleBreak/interpy-kr/blob/master/day7/One_liners_and_underscores.ipynb)|
 ||파이썬 2+3 호환|홍만수|[발표자료](https://github.com/KaggleBreak/interpy-kr/blob/master/day7/py_compatibility.ipynb)|
 ||pip 패키지 매니저|천성필|[발표자료](https://github.com/KaggleBreak/interpy-kr/blob/master/day7/pip_package_manager.ipynb)|
